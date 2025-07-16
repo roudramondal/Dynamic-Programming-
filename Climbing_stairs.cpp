@@ -1,4 +1,4 @@
-int dp[45];
+int dp[50];
 class Solution {
 public:
     int solve(int step,int n){
